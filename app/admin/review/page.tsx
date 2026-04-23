@@ -356,7 +356,7 @@ export default function ReviewQueuePage() {
             disabled={navigating}
             className="px-3 py-1.5 text-xs uppercase tracking-wider border border-pink-500/50 text-pink-300 hover:border-pink-400 hover:bg-pink-500/10 cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed"
           >
-            She/Her Priority
+            Enbies Anti-Priority
           </button>
 
           <span className="border-l border-cream-500/30 mx-1 hidden sm:inline-block" />
